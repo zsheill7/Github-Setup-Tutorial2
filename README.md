@@ -4,7 +4,22 @@ You can use the [editor on GitHub](https://github.com/zsheill7/Github-Setup-Tuto
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img src="Screenshot1.png" alt="Screenshot1.png">
+<img src="Screenshot1.png" alt="search cat">
+
+<img src="Screenshot3.png" alt="save cat">
+
+<img src="Screenshot4.png" alt="github homepage">
+
+<img src="Screenshot5.png" alt="drag files">
+
+<img src="Screenshot6.png" alt="grumpy cat youtube">
+
+<img src="Screenshot7.png" alt="soundcloud">
+
+<img src="Screenshot8.png" alt="embed soundcloud">
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
