@@ -1,16 +1,26 @@
-## Welcome to GitHub Pages
+## Uploading Images and Youtube videos
 
 You can use the [editor on GitHub](https://github.com/zsheill7/Github-Setup-Tutorial2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<h1> Uploading Images to Github </h1>
+
+In this section, we'll learn how to upload images to your Github account.  This is often more effective than simply taking image links from the web.  Web links are unstable;  the image could be deleted or simply moved to another location.
+
+We'll find a picture of a cat to display on my webpage.
 <img src="Screenshot1.png" alt="search cat">
 
+...and save it to the desktop.
 <img src="Screenshot3.png" alt="save cat">
 
+Then, go to the Github repository (github.com/your-repository-name)
 <img src="Screenshot4.png" alt="github homepage">
 
+
+Click "Upload files"
 <img src="Screenshot5.png" alt="drag files">
+
 
 <img src="Screenshot6.png" alt="grumpy cat youtube">
 
