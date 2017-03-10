@@ -21,6 +21,8 @@ Click "Upload files"
 
 <p>Congratulations!  You have now successfully uploaded an image to your website.</p>
 
+<hr>
+
 <p>Now, we're going to learn how to embed Youtube videos in our websites. Embedding simply means to incorporate data, such as a video, within the body of a web page.  This is both easy and useful, as it allows us to display fully functional videos by just copying and pasting a bit of code.  First, find the video you want to embed. Then, click the link below the video that says "Embed."</p>
 
 <img src="Screenshot6.png" alt="grumpy cat youtube">
@@ -32,5 +34,7 @@ Click "Upload files"
 <img src="Screenshot7.png" alt="soundcloud">
 
 <img src="Screenshot8.png" alt="embed soundcloud">
+
+<p>Copy and paste and you have your favorite song embedded!  </p>
 
 
